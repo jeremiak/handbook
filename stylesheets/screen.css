@@ -42,12 +42,20 @@ a:visited{  color: #8d0058; }
   background: #ffe4c5; /* Gecko Browsers */
 }
 
+<<<<<<< HEAD
 a.button[href^="https://18f.slack.com"]::before{
+=======
+a.button[href^="https://gsa-tts.slack.com"]::before{
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 	display: none;
 }
 
 
+<<<<<<< HEAD
 a[href^="https://18f.slack.com"]::before,
+=======
+a[href^="https://gsa-tts.slack.com"]::before,
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 a.button span.slack::before{
 	content: "";
 	width: 20px;
@@ -366,6 +374,7 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 	clear: both;
 }
 
+<<<<<<< HEAD
 .site-footer span.hub{
 	display: block;
 	font-size: 16px;
@@ -383,6 +392,8 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 	color: #555;
 }
 
+=======
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 .site-footer span a:hover{ color: #111; }
 .site-footer span a:hover img{ opacity: 0.85;}
 .site-footer span img{
@@ -485,7 +496,10 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 @media screen and (min-width: 817.77px){
 
 	.site-footer{ text-align: right; padding-top: 1.6em;}
+<<<<<<< HEAD
 	.site-footer span.hub{ float: left; margin-top: -0.33em;}
+=======
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 	.site-footer .button{ float: none; }
 	.site-footer .button.button-edit{ margin-right: -0.4em;}
 }
@@ -1241,6 +1255,7 @@ a[id]{
 
 /* @end */
 
+<<<<<<< HEAD
 /* @group .layout-article-acano */
 
 .layout-article-acano .table-acano-friendly-rooms{ margin: 0; }
@@ -1258,6 +1273,8 @@ a[id]{
 
 /* @end */
 
+=======
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 /* @group .layout-article-float */
 
 @media screen and (min-width: 711.11px) {

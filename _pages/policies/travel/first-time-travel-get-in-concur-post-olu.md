@@ -29,12 +29,17 @@ If this link does not automatically open up a gmail window for the the Employer 
 
 ### Frequently Asked questions
 
+<<<<<<< HEAD
 #### What is my Correspondence symbol?
 Depends on your division at 18F:
 
 Design = XFDB
 Operations = XFC
 Everyone else = XFDB
+=======
+#### What is my Correspondence/Office symbol?
+You can look this up [here](https://docs.google.com/spreadsheets/d/1WLVv2x7GauLo0-waK3FqeVxN7UCZmXw_t2E745Gfmug/edit#gid=600166428).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 #### What are my user roles?
 Only traveler, unless you have already been instructed otherwise by the 18F travel team.
@@ -49,4 +54,8 @@ That of your functional supervisor.
 
 ### Got other questions?
 
+<<<<<<< HEAD
 *Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+=======
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

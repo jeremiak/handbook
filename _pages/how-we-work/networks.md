@@ -47,14 +47,22 @@ If you have any questions, call IT at 202-501-4459.
 
 There are a few ways to access the GSA network remotely. Your colleagues prefer:
 
+<<<<<<< HEAD
 - [AnyConnect](/anyconnect/), a desktop client
 - [Horizon](https://horizon.gsa.gov/)'s HTML web interface
+=======
+- [AnyConnect](/anyconnect/), a desktop VPN client
+- [Horizon](https://horizon.gsa.gov/)'s browser-based virtual (Windows) desktop
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Alternatively, you can try one of these:
 
 - [VMware Horizon](/vmware-horizon/), a desktop client that connects to GSA Horizon
 - Citrix: Use [internal.anywhere.gsa.gov](https://internal.anywhere.gsa.gov/) when connected to VPN and [anywhere.gsa.gov](https://anywhere.gsa.gov/) when **not** connected to VPN.
+<<<<<<< HEAD
 - [GSA Apps](http://gsa-apps.gsa.gov), a web interface
+=======
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### 3. Sign in
 
@@ -77,4 +85,8 @@ If you see an Official Use Only warning screen from GSA, delete your GSA and Sal
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#it-issues](https://18f.slack.com/messages/questions/) or [#distributed](https://18f.slack.com/messages/distributed/)
+=======
+Ask in Slack: [#it-issues](https://gsa-tts.slack.com/messages/questions/) or [#distributed](https://gsa-tts.slack.com/messages/distributed/)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

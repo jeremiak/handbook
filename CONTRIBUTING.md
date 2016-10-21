@@ -1,7 +1,11 @@
 
 ## How to update the handbook
 
+<<<<<<< HEAD
 Everyone (both inside and outside 18F) can submit contributions to https://github.com/18F/handbook as a pull request or [open an issue](https://github.com/18F/handbook/issues/new) with a suggestion. If you're part of 18F, you can also chat about ideas in [#18f-handbook](https://18f.slack.com/messages/18f-handbook) or [#wg-onboarding](https://18f.slack.com/messages/wg-onboarding).
+=======
+Everyone (both inside and outside 18F) can submit contributions to https://github.com/18F/handbook as a pull request or [open an issue](https://github.com/18F/handbook/issues/new) with a suggestion. If you're part of 18F, you can also chat about ideas in [#18f-handbook](https://gsa-tts.slack.com/messages/18f-handbook) or [#wg-onboarding](https://gsa-tts.slack.com/messages/wg-onboarding).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 There is no dedicated staffing for the handbook right now; maintenance is done in spare time by any 18F staff member who is interested in helping.
 

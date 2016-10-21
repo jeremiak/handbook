@@ -15,7 +15,11 @@ title: Chicago
       <tr>
         <td class="col-key"><strong>Point&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
+<<<<<<< HEAD
         <a href="https://18f.slack.com/messages/@eth/">Ethan Heppner</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)
+=======
+        <a href="https://gsa-tts.slack.com/messages/@eth/">Ethan Heppner</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
         </td>
       </tr>
       <tr>
@@ -23,7 +27,11 @@ title: Chicago
           <strong>Slack&nbsp;channel</strong>
         </td>
         <td class="col-value">
+<<<<<<< HEAD
           <a href="https://18f.slack.com/messages/chitown/">#chitown</a>
+=======
+          <a href="https://gsa-tts.slack.com/messages/chitown/">#chitown</a>
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
         </td>
       </tr>
       <tr>
@@ -199,7 +207,11 @@ Dollop and Intelligentsia are the current fan favorites for coffee. If you like 
 
 ## <a id="who-works-here"></a>Who works here?
 
+<<<<<<< HEAD
 We keep a list of [people who work in the Chicago office](https://hub.18f.gov/locations/#CHI).
+=======
+We keep a list of [people who work in the Chicago office](https://pages.18f.gov/team-browser/?locations=CHI).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## <a id="potlucks"></a>Potlucks
 

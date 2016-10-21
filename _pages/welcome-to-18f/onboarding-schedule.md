@@ -2,7 +2,11 @@
 title: Onboarding schedule
 ---
 
+<<<<<<< HEAD
 _This series of onboarding classes is designed to explain how we work and introduce you to folks from across the organization. All trainings take place in [#18f-classes](https://18f.slack.com/messages/18f-classes/)._
+=======
+_This series of onboarding classes is designed to explain how we work and introduce you to folks from across the organization. All trainings take place in [#18f-classes](https://gsa-tts.slack.com/messages/18f-classes/)._
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Most of these trainings are optional (with the exception of the [Infrastructure class](/classes/#infrastructure-team), which is required since it has critical legal, regulatory, and policy implications for your work). For the optional ones, if you have a conflicting team meeting or another commitment, prioritize that first! You can easily read a class chat log later.
 
@@ -95,4 +99,8 @@ This will be your last week of training (though you’re always welcome to come 
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#newcomers](https://18f.slack.com/messages/newcomers)
+=======
+Ask in Slack: [#newcomers](https://gsa-tts.slack.com/messages/newcomers)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

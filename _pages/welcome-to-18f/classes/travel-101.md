@@ -2,7 +2,11 @@
 title: Travel 101
 ---
 
+<<<<<<< HEAD
 This post contains everything you need to know about how to book travel.
+=======
+This post contains an overview of what you need to know about how to book travel, excerpted from [our comprehensive Travel Guide](/travel-guide-start-here/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### Leadership
 
@@ -10,7 +14,11 @@ Ethan Heppner and Victor Valdivizeo lead the 18F travel team. Based in Chicago a
 
 ### Communication
 
+<<<<<<< HEAD
 Questions? Ask in [#travel](https://18f.slack.com/messages/travel/).
+=======
+Questions? Ask in [#travel](https://gsa-tts.slack.com/messages/travel/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Ethan is typically available to answer questions from 9:00 a.m. to 2:30 p.m. ET, and Victor is online between 11:30 a.m. and 5:00 p.m. PT.
 
@@ -20,6 +28,7 @@ Travel time is billed as general, unless you're working on a project. (Then you 
 
 ## Travel guide
 
+<<<<<<< HEAD
 Before you have any travel planned, it's a good idea to review the 18F [Travel Guide](https://docs.google.com/drawings/d/14sMYGW2_Js8bnMAWApfD1srAX7H9J5Ydz1ff85A_8LU/edit?pli=1) and familiarize yourself with our processes and policies. It's helpful to note that government travel is broken up into a series of nine steps. Additionally, before you travel for the first time, you'll need to complete three pre-steps. While this might sound like a lot, things are a lot simpler once you understand the key concepts that drive government travel.
 
 ## Travel card
@@ -41,6 +50,29 @@ The process of requesting travel, including [formally clearing dates with your s
 ## Vouchers
 
 Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](https://docs.google.com/drawings/d/1YppherLdZauBC7CIOGOyuXjvCG2nRrb0VasJCZxGuCM/edit), [adjust it accordingly and upload corresponding receipts](https://docs.google.com/drawings/d/1L9BkjIsyJvtM-TeRJzNP71jkzVfoFcCx6Cls-9AFsSA/edit), and again [submit to the travel team for approval](https://docs.google.com/drawings/d/1Db_jwvFz_OG-rc8BTqjqaD8F5bR_Ekwpz50ODxqImgo/edit). Once completed, everything charged to your travel card will be reconciled, and you'll receive reimbursement for any other expenses that you paid for out of pocket.
+=======
+The handbook has a whole guide for you: [18F Travel Guide](/travel-guide-start-here/)! Additionally, before you travel for the first time, you'll need to complete three pre-steps. While this might sound like a lot, things are a lot simpler once you understand the key concepts that drive government travel.
+
+## Travel card
+
+You'll use your travel card to pay for expenses &mdash; other than flights and meals (M&amp;IE per diem) &mdash; incurred during government travel. [Apply to get one as soon as possible](https://handbook.18f.gov/first-time-travel-travel-card/), and be sure to [keep a receipt of everything you purchase on it](https://handbook.18f.gov/travel-guide-4-travel/).
+
+## Per diem
+
+A per diem is an allowance that you get [each day you travel on official government business](https://handbook.18f.gov/travel-guide-4-travel/). There are two ways you can receive your M&IE per diem: You can withdraw it (in cash) from your travel card before or during travel, or you can choose to receive it as reimbursement after you've concluded your travel. In the second instance, you'll be responsible for paying for meals and incidentals. You do not need to save and submit receipts to receive your M&IE per diem. 
+
+## Concur
+
+Concur, also known as [travel.gsa.gov](https://travel.gsa.gov), is the system 18F employees use to book official travel and pay for flights. Before using it, you&rsquo;ll first need to [apply for access](https://handbook.18f.gov/first-time-travel-concur-check/). You will [complete your profile](https://handbook.18f.gov/first-time-travel-complete-concur-profile/) after your receive your travel card.
+
+## Authorization
+
+The process of requesting travel, including [formally clearing dates with your supervisor](https://handbook.18f.gov/travel-guide-1-authorization/) or client, making your [flight](https://handbook.18f.gov/travel-guide-2-choose-your-itinerary/#book-flight-or-rail) and [hotel](https://handbook.18f.gov/travel-guide-2-choose-your-itinerary/#choose-a-hotel-or-place-to-stay) reservations, [ensuring that you are billing your trip to the right place](https://handbook.18f.gov/travel-guide-3-approval/#iii-enter-accounting-codes), and [forwarding onto the 18F travel team for approval](https://handbook.18f.gov/travel-guide-3-approval/#iv-submit-authorization-for-approval).
+
+## Vouchers
+
+Vouchers allow you to receive reimbursement for travel-related expenses. You can [create one based on the expenses listed in your authorization](https://handbook.18f.gov/travel-guide-5-reimbursement/#i-create-a-voucher), [adjust it accordingly and upload corresponding receipts](https://handbook.18f.gov/travel-guide-5-reimbursement/#ii-entering-expenses), and again [submit to the travel team for approval](https://handbook.18f.gov/travel-guide-5-reimbursement/#iii-submit-voucher-for-approval). Once completed, everything charged to your travel card will be reconciled, and you'll receive reimbursement for any other expenses that you paid for out of pocket.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Cars for official business
 

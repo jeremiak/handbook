@@ -56,4 +56,8 @@ This policy is put into effect by this policy being digitally signed by the Acti
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#compliance](https://18f.slack.com/messages/compliance/)
+=======
+Ask in Slack: [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

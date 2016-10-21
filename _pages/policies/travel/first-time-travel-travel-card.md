@@ -37,6 +37,7 @@ _Estimated time: 10 minutes plus wait time for your supervisor’s signature_
 
 ### 3. Send both of the above docs as attachments to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov).
 
+<<<<<<< HEAD
 ### 4. Wait to hear from Karen Asthon via email.
 
 This may take 1-2 business days.
@@ -49,6 +50,17 @@ This may take 1-2 business days.
 3. You’ll also need to provide a Region of Record. Put in **00** (Central Office).
 
 4. Email karen.ashton@gsa.gov and c.c. 18f-travel@gsa.gov to ensure that it gets processed!
+=======
+### 4. Wait for an email response from the Travel team.
+
+This may take 1-2 business days.
+
+1. Once you’ve gotten the go-ahead, start the Citibank Online Travel Card application
+ [here](https://home.cards.citidirect.com/CommercialCard/Cards.html?classic=2). [_Having Trouble?_](#having-trouble). Follow the instructions attached with the email.
+1. In page 4 of the instructions, you’ll be asked for a GSA phone number of record. It sounds counterintuitive, but **if you do not have a government-issued phone, you can use the last four digits of your social security number.** Otherwise, use your GSA phone number.
+1. In page 5 of the instructions, You’ll need to provide a code for your location. Use Central Office.
+1. Reply to the email and c.c. 18f-travel@gsa.gov to ensure that it gets processed!
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### 5. Receive your card in the mail
 
@@ -63,4 +75,8 @@ This may take 1-2 business days.
 #### Having Trouble
 The instructions for the application can be found [here](https://drive.google.com/open?id=0B0Kck5dqF_EbUmVoNTFPZl9tNWc)
 
+<<<<<<< HEAD
 *Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+=======
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

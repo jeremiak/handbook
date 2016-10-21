@@ -15,7 +15,11 @@ title: San Francisco
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
+<<<<<<< HEAD
           <a href="https://18f.slack.com/messages/@vv">Victor Valdivizeo</a>, <a href="mailto:victor.valdiviezo@gsa.gov">victor.valdiviezo@gsa.gov</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)<br />
+=======
+          <a href="https://gsa-tts.slack.com/messages/@vv">Victor Valdivizeo</a>, <a href="mailto:victor.valdiviezo@gsa.gov">victor.valdiviezo@gsa.gov</a> (phone number is in the <a href="https://docs.google.com/spreadsheets/d/1QqqS_-V44MHyVqRIyHj6Eojg1Oz5EC3fS3j1e3mDrkg/edit#gid=3">18F team contact info sheet</a>)<br />
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
           <a href="http://www.gsa.gov/portal/category/107015">Building Services contact info</a>
         </td>
       </tr>
@@ -24,8 +28,13 @@ title: San Francisco
           <strong>Slack&nbsp;channels</strong>
         </td>
         <td class="col-value">
+<<<<<<< HEAD
           <a href="https://18f.slack.com/archives/sf">#sf</a>,
           <a href="https://18f.slack.com/archives/sf-public">#sf-public</a>
+=======
+          <a href="https://gsa-tts.slack.com/archives/sf">#sf</a>,
+          <a href="https://gsa-tts.slack.com/archives/sf-public">#sf-public</a>
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
         </td>
       </tr>
       <tr>
@@ -85,7 +94,11 @@ There is a developing [bikeshare program](http://www.bayareabikeshare.com) in th
 
 Bike parking is next to the loading dock, entered from the far corner at McAllister and Leavenworth. Before you can park your bike, though, you need to print and fill out [this form](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view), and then activate your credential. This means you need to return to the credentialing location where you first initiated the process for your card. (This is probably the federal building at 450 Golden Gate). There are drop-in hours all day on Monday from 9 a.m. to 4 p.m. You can also make an appointment. The card also requires you to come up with a six-digit PIN, so have that ready to go.
 
+<<<<<<< HEAD
 If you have any questions about this, contact [Victor Valdivizeo](https://18f.slack.com/team/vv).
+=======
+If you have any questions about this, contact [Victor Valdivizeo](https://gsa-tts.slack.com/team/vv).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 
 ### Public transit
@@ -154,7 +167,11 @@ If you're based in SF and want to regularly access the building after hours, you
 
 ### Book rooms for meetings?
 
+<<<<<<< HEAD
 The SF office has small team rooms. You can book other conference rooms using [BookIt!](/gsa-tools-equipment-and-transit/#bookit) Recommended rooms include Yuma and Carson City, because they are [Acano](/acano)-friendly.
+=======
+The SF office has small team rooms. You can book other conference rooms using [BookIt!](/gsa-tools-equipment-and-transit/#bookit) Recommended rooms include Yuma and Carson City, because they are videoconference-friendly.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Wireless works well in the beautiful courtyard, so work outside for a change!
 
@@ -276,13 +293,21 @@ The Health Unit also includes an all-gender bathroom.
 
 ## Who works here?
 
+<<<<<<< HEAD
 We keep a list of [people who work in the San Francisco office](https://hub.18f.gov/locations/#SFO).
+=======
+We keep a list of [people who work in the San Francisco office](https://pages.18f.gov/team-browser/?locations=SFO).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Food and coffee
 
 [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=zMY1nJmKeGBU.kU147P2SgCmA) with lots of food and drink options near 50 UN Plaza.
 
+<<<<<<< HEAD
 If you’re looking for people to eat with or suggesting an outing, use the keyword `sfeats` in [#sf](https://18f.slack.com/archives/sf). (This is an alternative to `@here`, which is intrusive for people who want to screen out those notifications). You can also add that to your [Slack highlight words](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications) to be notified when other people are talking about food.
+=======
+If you’re looking for people to eat with or suggesting an outing, use the keyword `sfeats` in [#sf](https://gsa-tts.slack.com/archives/sf). (This is an alternative to `@here`, which is intrusive for people who want to screen out those notifications). You can also add that to your [Slack highlight words](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications) to be notified when other people are talking about food.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Evacuation procedures
 

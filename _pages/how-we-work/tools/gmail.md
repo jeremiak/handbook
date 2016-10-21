@@ -10,7 +10,11 @@ You can access your email from <https://mail.google.com> or <https://mail.gsa.go
 
 ## Rules
 
+<<<<<<< HEAD
 **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+=======
+**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Tips
 

@@ -117,7 +117,11 @@ document.addEventListener('DOMContentLoaded', function() {
     defaultMessage: "This link is private to 18F.",
     // see also: https://github.com/18F/guides-style/blob/master/assets/js/18f-guide.js
     ignoreUrls: [
+<<<<<<< HEAD
       '18f.slack.com',
+=======
+      'gsa-tts.slack.com',
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
       'anywhere.gsa.gov',
       'bookit.gsa.gov',
       'calendar.gsa.gov',
@@ -131,10 +135,17 @@ document.addEventListener('DOMContentLoaded', function() {
       'github.com/18F/Infrastructure',
       'github.com/18F/staffing-and-resources',
       'github.com/18F/team-api.18f.gov',
+<<<<<<< HEAD
       'github.com/18F/writing-lab',
       'gkey.gsa.gov',
       'gsa.my.salesforce.com',
       'hub.18f.gov',
+=======
+      'github.com/18F/security-incidents',
+      'github.com/18F/writing-lab',
+      'gkey.gsa.gov',
+      'gsa.my.salesforce.com',
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
       'insite.gsa.gov',
       'mail.gsa.gov',
       'pages-internal.18f.gov',

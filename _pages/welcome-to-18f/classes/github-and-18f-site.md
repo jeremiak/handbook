@@ -8,14 +8,22 @@ _This section covers the basics of how 18F&rsquo;s website works and includes a 
 
 ### Leadership
 
+<<<<<<< HEAD
 [Outreach](/outreach) is responsible for maintaining the 18F website. [Greg Boone](https://18f.slack.com/messages/@gregboone) and [Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley) are the lead developers.
+=======
+[Outreach](/outreach) is responsible for maintaining the 18F website. [Greg Boone](https://gsa-tts.slack.com/messages/@gregboone) and [Elaine Kamlley](https://gsa-tts.slack.com/messages/@elainekamlley) are the product leads.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### Communication
 
 Find us in Slack:
 
+<<<<<<< HEAD
 - [#18f-site](https://18f.slack.com/messages/18f-site)
 - [#beta-18f-site](https://18f.slack.com/messages/18f-site-design)
+=======
+- Use [#18f-site](https://gsa-tts.slack.com/messages/18f-site) to report issues.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### Documentation
 
@@ -43,7 +51,11 @@ If you&rsquo;re not a developer or came from a place that didn&rsquo;t use Git, 
 
 - **Repo** is short for repository, or a project on GitHub. Anybody at 18F can create repos in the 18F organization and you should _always_ create new projects as 18F, not as yourself. You can create new repos in GitHub by clicking the + next to your profile picture. Then, choose New Repository and change the owner to 18F.
 
+<<<<<<< HEAD
 - The **license** on every repo must be Creative Commons 0, or CC0. That&rsquo;s shorthand for Public Domain. 18F is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don&rsquo;t trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://18f.slack.com/archives/admins-github) and [#wg-opensource](https://18f.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/). You&rsquo;ll hear more about open source during [Gray&rsquo;s seminar on Product and Open Source](/intro-to-product-and-open-source).
+=======
+- The **license** on every repo must be Creative Commons 0, or CC0. That&rsquo;s shorthand for Public Domain. 18F is not only committed to working in the public domain by our own policies, but is also committed [by law](https://www.usa.gov/government-works). (Though we are allowed to by law, we don&rsquo;t trademark our logo.) There are a few exceptions to that rule, so check with [#admins-github](https://gsa-tts.slack.com/archives/admins-github) and [#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before putting any license _other_ than CC0 on your project. For more details about licensing, see our [open source policy](https://github.com/18F/open-source-policy), [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and the [Open Source Style guide](https://pages.18f.gov/open-source-guide/). You&rsquo;ll hear more about open source during [Gray&rsquo;s seminar on Product and Open Source](/intro-to-product-and-open-source).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Once you&rsquo;re a member of the 18F organization, you&rsquo;ll have access to many of our repos.  You&rsquo;ll also have at least read-only access to a few of our private repositories. Check with your team on how to interact with a project. In some cases, the repos themselves have information in a `CONTRIBUTING.md` file for guidance.
 
@@ -57,7 +69,11 @@ Once you&rsquo;re a member of the 18F organization, you&rsquo;ll have access to 
 
 ### 3. Working with GitHub
 
+<<<<<<< HEAD
 If you&rsquo;re working with an agency, you'll need to find ways to collaborate with them on the project you're tasked with. Typically, the way we give outside agencies and contractors access to GitHub repos is by making those repositories public. Once they&rsquo;re public, anybody can access them; we just need to add people as a collaborators. [#admins-github](https://18f.slack.com/archives/admins-github) can help you with that.
+=======
+If you&rsquo;re working with an agency, you'll need to find ways to collaborate with them on the project you're tasked with. Typically, the way we give outside agencies and contractors access to GitHub repos is by making those repositories public. Once they&rsquo;re public, anybody can access them; we just need to add people as a collaborators. [#admins-github](https://gsa-tts.slack.com/archives/admins-github) can help you with that.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 You can use GitHub for almost anything, but consider the resources available to agency partners or other stakeholders before deciding to use it. Are your agency partners used to using GitHub? Will they need to create accounts and jump through hoops? Can they even access it from their agency computers? These are the kinds of things we consider when deciding if GitHub is the right thing to use.
 
@@ -67,7 +83,11 @@ Most projects/repositories have a `CONTRIBUTING.md` file in their root directory
 
 Another pro tip: Search the existing issues before you add one. It may make more sense to comment on that issue rather than create a new one.
 
+<<<<<<< HEAD
 To submit an issue, Log in, find the appropriate repo on GitHub, and click the Issues tab in the right column. Then, click the New Issue button. Your issue should have a title and explainer text. You&rsquo;ll probably know what to put there, but teams sometimes have guidance on how to format issues or things to include. The [#blog](https://18f.slack.com/archives/blog), for example, has [a specific set of things we require](https://github.com/18F/blog-drafts#readme) submissions to have before we&rsquo;ll consider them.
+=======
+To submit an issue, Log in, find the appropriate repo on GitHub, and click the Issues tab in the right column. Then, click the New Issue button. Your issue should have a title and explainer text. You&rsquo;ll probably know what to put there, but teams sometimes have guidance on how to format issues or things to include. The [#blog](https://gsa-tts.slack.com/archives/blog), for example, has [a specific set of things we require](https://github.com/18F/blog-drafts#readme) submissions to have before we&rsquo;ll consider them.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Final pro tip: If your project wants issues formatted in a specific way, you can add an issue template file. [This is the one we have for filing new blog post ideas](https://github.com/18F/blog-drafts/blob/master/ISSUE_TEMPLATE.md). Every new post auto-fills with that information.
 
@@ -84,8 +104,22 @@ We use [Google Analytics](/google-analytics/) and participate in the [Digital An
 
 ### Add your photo
 
+<<<<<<< HEAD
 The only way new employees need to interact with the 18F site during their first month is to add their picture to the Team page. This isn't mandatory, of course, but we&rsquo;d really like it if everyone had a photo. (We use the 18F logo in place of a photo if you don't have one.)
 
 To get going, find or take an appropriate photo and upload it to [this Google Drive folder](https://drive.google.com/a/gsa.gov/folderview?id=0B8kn3cuJUwEkLUMwWXE2VVczbUU&usp=sharing). We have some guidelines about good photos, [here](https://docs.google.com/a/gsa.gov/document/d/1xEFRPtJBrsJH-0ZhL9Wq1T8iILGydM-7R11iPTVWJVg/edit?usp=drive_web).
 
 If you&rsquo;re interested in contributing to the site as a developer or designer, talk to [Greg Boone](https://18f.slack.com/messages/@gregboone) or [Elaine Kamlley](https://18f.slack.com/messages/@elainekamlley) or join [#beta-18f-site](https://18f.slack.com/messages/beta-18f-site/).
+=======
+Everyone at 18F should submit a photo that we'll use whenever we represent you on the website. This isn't mandatory, of course, but we&rsquo;d really like it if everyone had a photo. (We use the 18F logo in place of a photo if you don't have one.)
+
+Photos should follow these three guidelines. You should submit a photo:
+
+* Of you and only you from the shoulders up
+* Where your whole face is visible
+* Taken in a public place like a park, library, or a local federal building
+
+To get going, find or take an appropriate photo and upload it to [this Google Drive folder](https://drive.google.com/a/gsa.gov/folderview?id=0B8kn3cuJUwEkLUMwWXE2VVczbUU&usp=sharing). We have some guidelines about good photos, [here](https://docs.google.com/a/gsa.gov/document/d/1xEFRPtJBrsJH-0ZhL9Wq1T8iILGydM-7R11iPTVWJVg/edit?usp=drive_web).
+
+The site team works in [#beta-18f-site](https://gsa-tts.slack.com/messages/beta-18f-site/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

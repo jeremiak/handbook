@@ -4,7 +4,11 @@ title: Infrastructure
 
 _The Infrastructure team helps 18F navigate the “federal compliance architecture.” This work applies to much more than technology: it applies to our entire operation, including how we work inside the law, how we secure our systems, how we collect data from the public, and how we spend money._
 
+<<<<<<< HEAD
 While [Team Ops](/ops) focuses on what would normally be considered the “back office” — financial matters, procurement, and space operations — Infrastructure focuses on our digital infrastructure and development methodologies. Both teams work closely together, and there are many areas in which we have joint ownership. 
+=======
+While [Team Ops](/ops) focuses on what would normally be considered the “back office” — financial matters, procurement, and space operations — Infrastructure focuses on our digital infrastructure and development methodologies. Both teams work closely together, and there are many areas in which we have joint ownership.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 The Director of Infrastructure, Noah Kunin, goes into more depth in [his class](/intro-to-18f-infrastructure), but the summary is that we have three rules:
 
@@ -14,7 +18,11 @@ The Director of Infrastructure, Noah Kunin, goes into more depth in [his class](
 
 18F Infrastructure’s work is closely related to your Ethics and Legal training. The difference is that the Infrastructure team is mainly concerned about the behavior of systems we use or build, while that ethics/legal training (and the broader GSA legal team) focuses on what you as a person can and cannot do.
 
+<<<<<<< HEAD
 If you have any questions, you can find us on Slack in [#infrastructure](https://18f.slack.com/messages/infrastructure/), [#pra](https://18f.slack.com/messages/pra/), and [#research](https://18f.slack.com/messages/research/).
+=======
+If you have any questions, you can find us on Slack in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure/), [#pra](https://gsa-tts.slack.com/messages/pra/), and [#research](https://gsa-tts.slack.com/messages/research/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ---
 
@@ -38,9 +46,15 @@ The Infrastructure team provides guidance and support for the entire lifecycle o
 
 * **Platform as a Service.** cloud.gov helps 18F quickly and easily develop projects and designs on a full-featured self-service platform.
 * **Security & Compliance.** See the [Compliance Toolkit](https://github.com/18F/compliance-toolkit).
+<<<<<<< HEAD
 * **Infrastructure as a Service.** Provide a straightforward option for customer agencies to buy Amazon Web Services as part of an IAA with 18F. 
 * **Production Support.**
 * **Tools & Communication.** We manage the core tools that 18F depends on for communication and collaboration. 
+=======
+* **Infrastructure as a Service.** Provide a straightforward option for customer agencies to buy Amazon Web Services as part of an IAA with 18F.
+* **Production Support.**
+* **Tools & Communication.** We manage the core tools that 18F depends on for communication and collaboration.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## <a id="how-we-work">How we work</a>
 
@@ -54,9 +68,15 @@ The Infrastructure team provides guidance and support for the entire lifecycle o
 
 * **Slack channels:**
 
+<<<<<<< HEAD
 	* [#infrastructure](https://18f.slack.com/messages/infrastructure) - Escalate general operational issues to our attention.
 	* [#g-devops](https://18f.slack.com/messages/g-devops) - Discuss DevOps as a capability and skillset.
 	* [#devops-public](https://18f.slack.com/messages/devops-public) - A public channel to discuss DevOps topics with a broad community of public and private sector technologists.
+=======
+	* [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) - Escalate general operational issues to our attention.
+	* [#g-devops](https://gsa-tts.slack.com/messages/g-devops) - Discuss DevOps as a capability and skillset.
+	* [#devops-public](https://gsa-tts.slack.com/messages/devops-public) - A public channel to discuss DevOps topics with a broad community of public and private sector technologists.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 * **Mailing lists:**
 
@@ -87,4 +107,7 @@ Here are some common tools we use, how we use them, and how you can get access t
 
 * [Cloud.gov](https://cloud.gov/) – see [the team overview](https://github.com/18F/cg-product/blob/master/Onboarding.md)
 * [Before you ship](https://pages.18f.gov/before-you-ship/)
+<<<<<<< HEAD
 * [Standards](https://hub.18f.gov/standards/)
+=======
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

@@ -31,6 +31,10 @@ If you're traveling for 18F during your first two weeks (normally for orientatio
     * **Phone Number**, for airline requirements and to facilitate booking
     * **Origin and Destination Airports or Train Stations**, for obvious reasons
     * **Approved Dates of Travel**, including approximate times if possible
+<<<<<<< HEAD
+=======
+    * **A good time for the 18F travel team to call you** in order to set up flights. The travel team's hours of operation         are Monday through Friday from 9 AM to 7 PM Eastern time.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 5. **Confirm travel**: Once you’ve sent in all of your information, one of the members of the 18F travel team will reach out to you by phone about potential travel options.
 
@@ -90,4 +94,8 @@ If you are traveling to orientation and are worried that you will miss it becaus
 
 While Shawnique and the travel team won't be available until Monday if your cancellation occurs over the weekend, please feel comfortable rebooking your travel either though the airline or via Ad-Trav, and rest assured that you will be in good hands when you arrive at 18F.
 
+<<<<<<< HEAD
 *Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+=======
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

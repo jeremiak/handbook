@@ -2,9 +2,15 @@
 ========================
 
 The [18F Handbook](https://handbook.18f.gov) documents the mission, values, structures, policies, tools, and guides that shape our team. This is a _living_ document and is updated regularly. If you have questions, comments, or suggestions, please
+<<<<<<< HEAD
 [open an issue](https://github.com/18F/handbook/issues). If you want to add content to the Handbook, please submit a pull request or ask in [#18f-handbook](https://18f.slack.com/messages/18f-handbook).
 
 Note: If you're changing any kind of process, please let [#wg-onboarding](https://18f.slack.com/messages/wg-onboarding) know so we can keep the handbook, new hire messages, and checklists up to date.
+=======
+[open an issue](https://github.com/18F/handbook/issues). If you want to add content to the Handbook, please submit a pull request or ask in [#18f-handbook](https://gsa-tts.slack.com/messages/18f-handbook).
+
+Note: If you're changing any kind of process, please let [#wg-onboarding](https://gsa-tts.slack.com/messages/wg-onboarding) know so we can keep the handbook, new hire messages, and checklists up to date.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## What can't be included
 
@@ -19,7 +25,11 @@ We avoid including information that can easily go out of date and is already pub
 * Information that is already well-covered on GSA InSite. Link there instead of reproducing it.
 * Specific 18F org chart info (such as lists of names of supervisors and facilitators). Link to the [internal 18F org chart](https://handbook.18f.gov/org-chart/) instead.
 
+<<<<<<< HEAD
 We're careful about publishing [information collected during research](https://handbook.18f.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#research](https://18f.slack.com/archives/research) for guidance first.
+=======
+We're careful about publishing [information collected during research](https://handbook.18f.gov/research-guidelines/); [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit) and ask [#research](https://gsa-tts.slack.com/archives/research) for guidance first.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Development
 

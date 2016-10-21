@@ -6,7 +6,11 @@ If you're moving to a different GSA region, here's what you need to know.
 
 ## Notification and paperwork
 
+<<<<<<< HEAD
 After receiving approval from your direct supervisor, please email your new address and effective move date to Shawnique Muller, copying your Supervisor and Cristina Brydges 30 days in advance of your move.
+=======
+Email your direct supervisor and ask for approval. After receiving approval, please email your new address and effective move date to Shawnique Muller, copying your Supervisor and Cristina Brydges 30 days in advance of your move.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Your effective date should be the start of a pay period. Pay period dates can be found on [GSA InSite](http://www.gsa.gov/portal/content/102507).
 
@@ -28,4 +32,8 @@ If you’re changing regions, your pay will change. Look up your new pay [here](
 
 ## Change your Slack location
 
+<<<<<<< HEAD
 We've started putting our location in parentheses after our names in Slack to make it easier for coworkers to tell where we are. To update it, [open your profile](https://18f.slack.com/account/profile), click **Edit**, and update the letters after your last name.
+=======
+We've started putting our location in parentheses after our names in Slack to make it easier for coworkers to tell where we are. To update it, [open your profile](https://gsa-tts.slack.com/account/profile), click **Edit**, and update the letters after your last name.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

@@ -11,7 +11,11 @@ title: Travel Guide Table of Contents
 * [2. Choose Your Itinerary](/travel-guide-2-choose-your-itinerary)
     * [Book your flight](/travel-guide-2-choose-your-itinerary/#book-flight-or-rail)
     * [Book lodging through concur](/travel-guide-2-choose-your-itinerary/#book-hotel-in-concur)
+<<<<<<< HEAD
     * [Book lodging outside of concur](/travel-guide-2-choose-your-itinerary/#book-hotel-alternate)
+=======
+    * [Book lodging outside of concur](/travel-guide-2-choose-your-itinerary/#book-hotel-in-fedrooms)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 * [3. Get trip approval](/travel-guide-3-approval)
     * [Complete Trip Information](/travel-guide-3-approval/#i-complete-trip-information)
     * [Enter Accounting Codes](/travel-guide-3-approval/#iii-enter-accounting-codes)
@@ -24,4 +28,8 @@ title: Travel Guide Table of Contents
    * [Submit for Approval](/travel-guide-5-reimbursement/#iii-submit-voucher-for-approval)
 * [Travel Guide FAQ](/travel-guide-faq)
 
+<<<<<<< HEAD
 *Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+=======
+*Got questions? Ask [#travel](https://gsa-tts.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

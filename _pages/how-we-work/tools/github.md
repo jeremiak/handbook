@@ -8,6 +8,11 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 - Greg Boone gives [a brief class on GitHub and the 18F website](/github-and-18f-site).
 
+<<<<<<< HEAD
+=======
+- The 18F [Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) and accompanying [practice guide](https://github.com/18F/open-source-policy/blob/master/practice.md) explain why and how we write code and documentation in the open.
+
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 - Melody Kramer and Greg Boone co-wrote [a guide to using GitHub and the Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
 
 - Will Slack [explains the basics](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit) of version control and GitHub. Slides are available [here](https://pages.18f.gov/slides/github-basics/#/18); course materials are [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
@@ -19,7 +24,11 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 Because GitHub is a web application, there&rsquo;s no installation necessary, but you may find the [desktop app](https://desktop.github.com/) useful.
 
+<<<<<<< HEAD
 If you don&rsquo;t have a GitHub account, please use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/federal-records). If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails).
+=======
+If you don&rsquo;t have a GitHub account, you must use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/federal-records) and identification. If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails) as your primary email, and ensure it is visible on your public GitHub profile.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### 1. Complete your profile
 
@@ -28,7 +37,11 @@ Include the following:
 - Name: Your first or first and last name.
 - Company: Your government agency. (If you also use GitHub for personal projects, consider specifying &ldquo;<code>agency</code> (work) + personal projects&rdquo; to make it clear that some of your GitHub projects may be personal in nature.)
 - Location: Your primary work location (city, state).
+<<<<<<< HEAD
 - Photo: A headshot photo, or image that is unique to you.
+=======
+- Photo: A headshot photo, or an image that is unique to you.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### 2. Set up two-factor authentication
 
@@ -46,7 +59,11 @@ You will get a lot of emails when you turn notifications on. To help stem the ti
 
 ### 4. Join the 18F organization
 
+<<<<<<< HEAD
 After you&rsquo;ve enabled 2FA and added your government email address to your profile, hop into [#admins-github](https://18f.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`@username`) to https://github.com/orgs/18F/teams/18f on GitHub." An admin will add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+=======
+After you&rsquo;ve enabled 2FA and added your government email address to your profile, hop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`@username`) to https://github.com/orgs/18F/teams/18f on GitHub." An admin will add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### 5. Make your membership public
 
@@ -55,6 +72,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 ## Rules
 
+<<<<<<< HEAD
 - **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
 
 - **Do not grant Admin rights to anyone but 18F staff.**
@@ -66,6 +84,38 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 - **Ask Infrastructure before creating private repositories.** We pay GitHub for the ability to create private repositories and need to bill clients for repositories created on their behalf. Before you do anything, drop into [#admins-github](https://18f.slack.com/messages/admins-github) and explain what you&rsquo;d like to do and why.
 
 - **Ask Infrastructure before deleting repositories.** Deleting repositories isn&rsquo;t as simple as deleting them from GitHub. Before you do anything, drop into [#admins-github](https://18f.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why.
+=======
+- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
+
+- **Do not grant Admin rights to anyone but 18F staff.**
+
+- **Do not store sensitive information in GitHub**, including environment variables, private configuration data, or sensitive information about the public (including but not limited to PII). In the event that such variables or configuration data is pushed to a GitHub repository accidentally, even momentarily, consider it compromised and revoke or change the credentials immediately. Do not delete the commit itself. Then immediately follow the directions on the [incident response handbook page](/security-incidents). If you&rsquo;re unsure how to protect this information, consult with Infrastructure on GitHub or in the [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) channel in Slack. Some projects use [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to the [18F Handbook page on sensitive information](/sensitive-information) and [guidance on sensitive information in our open source policy.](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
+
+- **Ask Infrastructure before integrating a service with GitHub or creating private repositories.** Many websites offer the option to &ldquo;Sign in with GitHub&rdquo; and may further request permission to access your &ldquo;personal user data.&rdquo; Providing this level of access can not only share your public or private email address, but it can also grant the ability to access 18F&rsquo;s private repositories. For this reason, we ask that all organization members refrain from authorizing integrations and request any desired integrations through a [Infrastructure issue](https://github.com/18F/infrastructure).
+
+- **Ask Infrastructure before creating private repositories.** We pay GitHub for the ability to create private repositories and need to bill clients for repositories created on their behalf. Before you do anything, drop into [#admins-github](https://gsa-tts.slack.com/messages/admins-github) and explain what you&rsquo;d like to do and why.
+
+- **Ask Infrastructure before deleting repositories.** As a government team, we can’t delete repositories without Infrastructure first reviewing them for information that they may need to retain/archive (including issues, pull request comments, commit history, and other information). If you want to delete a repository, go to [#admins-github](https://gsa-tts.slack.com/messages/admins-github/) and explain what you&rsquo;d like to do and why, and wait for approval before deleting it. Feel free to clearly mark repositories “DEPRECATED” at any time.
+
+### Working with outside collaborators
+
+Giving contractors and federal partners read or write access to your repository is both allowed and _encouraged_ to facilitate the flow of ideas and build a stronger, more decentralized community.
+
+Here&rsquo;s our current process to address both operational and security concerns:
+
+1. If the user is a member of the federal government, confirm we have an active [inter-agency agreement (IAA)](https://pages.18f.gov/iaa-forms/primer.html) or other legal document authorizing the work.
+1. If the user is a contractor, confirm we have an active and valid contract with them, or their company.
+1. Ask the collaborator(s) to go through [the setup steps](#setup).
+    * They will need to confirm they've done this before you continue.
+2. (Ask #admins-github to) [create a team](https://help.github.com/articles/adding-people-to-teams-in-an-organization/) whose access we can turn off/on with one button. Separate a staff-only team from a contractor/mixed/collaborator team for a project, and name it something like `Project name - Collaborators | Skillset`.
+3. In the &ldquo;Description&rdquo; of the team, put something reasonable plus a point-of-contact email address for the collaborators.
+    * Ideally this is the address of someone senior — someone you can email if issues come up and who can rally the troops.
+5. (Ask #admins-github to) add the members.
+    * The 18F GitHub Organization requires 2FA for its members. Users without 2FA cannot be added to the GitHub Organization.
+6. Give the team read/write permissions on the relevant repositories. Admin rights should be limited exclusively to 18F staff.
+
+When the engagement is over, you must let #admins-github know so the access can be removed.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 
 ## Usage
@@ -92,6 +142,7 @@ If you want to make a suggestion to an 18F project without making a specific cha
 
 ### Permissions
 
+<<<<<<< HEAD
 Teams can give groups of people administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above). Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
 
 ### Working with outside collaborators
@@ -106,6 +157,11 @@ Giving outside collaborators (such as contractors, federal partners, and so on) 
 
 	If you are not an 18F github admin, you cannot add external team members. Confirm your partners have enabled 2FA and ask the #admins-github Slack channel to add the users to the team. 
 6. Add the relevant repositories.
+=======
+Teams can give groups of people administrative, write, or read permissions to 18F repositories. Even if you have write access into a repository, we strongly encourage the submission of pull requests for improvements or fixes (see &ldquo;we prefer branching to forking when we&rsquo;re working together on 18F projects,&rdquo; above).
+
+Contractors or external government collaborators should only be added to teams with scoped write permissions to the repositories they're working on. They should never have administrative-level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff, if necessary.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Resources
 
@@ -119,4 +175,8 @@ Giving outside collaborators (such as contractors, federal partners, and so on) 
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#git](https://18f.slack.com/messages/git), [#admins-github](https://18f.slack.com/messages/admins-github), [#dev](https://18f.slack.com/messages/dev)
+=======
+Ask in Slack: [#git](https://gsa-tts.slack.com/messages/git), [#admins-github](https://gsa-tts.slack.com/messages/admins-github), [#dev](https://gsa-tts.slack.com/messages/dev)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

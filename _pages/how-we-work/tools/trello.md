@@ -10,13 +10,21 @@ Because Trello is a web application, there&rsquo;s no installation necessary. Yo
 
 Trello accounts support multiple email addresses, so you can use an existing account (if you have one) by adding your GSA email address. Otherwise, you can sign in with your GSA Google account. Make sure to [set up two-factor authentication](https://trello.com/2fa).
 
+<<<<<<< HEAD
 To get access to the 18F Trello board, ask for an invite in [#admins-trello](https://18f.slack.com/messages/admins-trello).
+=======
+To get access to the 18F Trello board, ask for an invite in [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 There is no 18F-wide access to paid Trello features or add-on services yet. If you're interested in those things, you may have to work it out with your team.
 
 ## Rules
 
+<<<<<<< HEAD
 **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+=======
+**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Usage
 
@@ -62,4 +70,8 @@ Chrome extensions can dramatically increase the usability and functionality of T
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#admins-trello](https://18f.slack.com/messages/admins-trello/)
+=======
+Ask in Slack: [#admins-trello](https://gsa-tts.slack.com/messages/admins-trello/)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

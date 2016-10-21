@@ -61,4 +61,8 @@ This document is distributed to all new hires as part of our regular onboarding 
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#iaa](https://18f.slack.com/messages/iaa/) or [#legalstuff](https://18f.slack.com/messages/legalstuff/)
+=======
+Ask in Slack: [#iaa](https://gsa-tts.slack.com/messages/iaa/) or [#legalstuff](https://gsa-tts.slack.com/messages/legalstuff/)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

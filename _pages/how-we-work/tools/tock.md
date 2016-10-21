@@ -10,6 +10,7 @@ To facilitate our fee-for-service business model, 18F has developed its own time
 
 18F's business model is based on billing for time logged to a project. Every expense -- salaries, benefits, GSA overhead, MacBooks, all-hands events, and so on -- is paid for by our billing, which is recorded by each person in Tock.
 
+<<<<<<< HEAD
 We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on where to track your time in Tock — we want to make sure we bill the correct client!
 
 Tock looks like this: ![Screenshot of Tock]({{ site.baseurl}}/images/tock/tock.png)
@@ -23,11 +24,43 @@ Timecards are due by the end of day (close of business) on Monday. If you fail t
 ## Tracking time
 
 Carefully track and record your work at 18F. Some 18F colleagues use software such as [Toggl](https://toggl.com/), [Hours](https://hourstimetracking.com/), or [RescueTime](https://www.rescuetime.com/) to do this. Others have created [templates](https://docs.google.com/spreadsheets/d/1S2WWVy3Y5pQ4Bweg0DsGyKOaqzoou_YIE3Jf9uRDwlI/edit) in Google Sheets to record their weekly time. Feel free to make a copy of this template and use it for yourself.
+=======
+We track each and every [project](https://tock.18f.gov/projects/) in Tock. When you're assigned to a project, make sure to get clear instructions from your supervisor or project lead on which category to track your time in Tock — we want to make sure we bill the correct client!
+
+Tock looks like this: ![Screenshot of Tock]({{ site.baseurl}}/images/tock/tock.png)
+
+You must manually submit your timecard each week, and your hours each week must total exactly 40 (with the exception of partial weeks that may occur at the end of the fiscal year in September). To submit a timecard, choose the correct week for your entries from the list on the homepage, enter your time based on the projects you worked for that week, and click submit.
+
+Timecards are due by the end of day (close of business) on Friday. If you fail to submit your timecard on time, your manager will bug you until you get it done! Timecards for the current week should be available no later than Monday at 9AM PST.
+
+## Creating Tock Projects
+
+There are two kinds of Tock projects, billable and non-billable. Tock projects can only be created by 18F Operations staff. 
+Request the creation of a project in [#tock](https://gsa-tts.slack.com/messages/tock).
+
+Non-billable activities/projects can be requested by any person in 18F. When requested, the requester should provide:
+* A suggested title
+* A 2-3 sentence description of the project/activity.
+* Validation this project will not become billable.
+* An expiration date for the project/activity, not to exceed the end of the fiscal year.
+* The 18F Director of Operations must approve the creation of all non-billable activities/projects.
+
+Billable projects can only be created after an agreement has been signed. 18F Operations staff will create the project using the following information provided from the Business Unit responsible for the project:
+* A title, with the business unit name and client name as the leading part of the title.
+* A 2-3 sentence description of the project.
+* The name of the project manager for the project.
+
+## Tracking time
+
+Carefully track and record your work at 18F. Some 18F colleagues use software
+such as [Toggl](https://toggl.com/) or [Hours](https://hourstimetracking.com/) to do this. Others have created [templates](https://docs.google.com/spreadsheets/d/1S2WWVy3Y5pQ4Bweg0DsGyKOaqzoou_YIE3Jf9uRDwlI/edit) in Google Sheets to record their weekly time. Feel free to make a copy of this template and use it for yourself.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 You should track time spent on each billable project separately. In addition, you should split out certain entries for non-billable work. Here's a quick cheat-sheet on common non-billable time entries:
 
 - `General`: Recurring team meetings, such as the weekly all-hands, team huddles and team training sessions. Also, travel time to and from D.C. for billable meetings. If you _work_ on something during transit (say, on the airplane), bill that to the appropriate project, but if you're just in transit, that goes in General.
 - `Outreach`: Writing blog posts, responding to requests for 18F engagement, and more.
+<<<<<<< HEAD
 - Every non-billable hour you log is paid for by an increase in the overhead rates attached to all billable projects, so be careful on how much you spend on non-billable projects. If you think the work you're doing should be billable, jump into #seeds and mention Patrick Bateman to talk about how to find funding.
 
 ## Leave
@@ -39,6 +72,17 @@ Whenever you take “leave” — be that vacation time, holiday time, sick time
 ### Tracking leave in Tock
 
 Team Ops has updated the Out of Office options in Tock to reflect categories of leave used in ALOHA. This will make future reconciliation of Tock and ALOHA much easier, and more accurately track our time.
+=======
+- Every non-billable hour you log is paid for by an increase in the overhead rates attached to all billable projects, so be careful on how much you spend on non-billable projects. If you think the work you're doing should be billable, jump into #seeds to talk about how to find funding.
+
+## Leave
+
+Whenever you take “leave” — be that vacation time, holiday time, sick time, or another type of leave — you should log it as one of the "Out of Office" categories in Tock (listed below). If your leave begins prior to the release of a timecard (before Wednesday), please send your manager an email with your time entries and they will ensure they are entered. For longer leave requests, make sure you have your time entered on the “18F Out of Office” Google calendar — Ops tracks those entries and will enter your time. If you don’t enter extended leave in the “18F Out of Office” calendar Ops won’t know you are out, won’t enter your time, and you will be delinquent.
+
+[ALOHA](/gsa-tools-equipment-and-transit#aloha) is GSA’s out of office request system and is separate from [Tock](/tock), which is 18F’s own timekeeping system. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
+
+The Out of Office options in Tock reflect categories of leave used in ALOHA. This will make reconciliation of Tock and ALOHA much easier, and more accurately track our time.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 `Annual Leave` Tock your time here when you are using your Annual Leave. Make sure you’ve completed an ALOHA Request.
 
@@ -60,8 +104,11 @@ Team Ops has updated the Out of Office options in Tock to reflect categories of 
 
 For more information on leave, see [Cristina’s Benefits class](/benefits#leave) and [Leah’s GSA Tools and Equipment class](/gsa-tools-equipment-and-transit).
 
+<<<<<<< HEAD
 That’s all I’ve got regarding Tock. Feel free to reach out if you have any questions. Many people, for example, have questions about how to actually track their time throughout the week. Lots of people do this differently; I suggest chatting with your fellow 18F team members to get some ideas. The [#tock](https://18f.slack.com/archives/tock) channel on Slack is also a great resource.
 
+=======
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 ## Questions
 
 ### Why is my list of "Reporting Periods You Need to Fill Out" really long?
@@ -76,11 +123,15 @@ Tock likely doesn't have your start date listed correctly. To fix this:
 
 ### How do I change a reporting period I already filled out?
 
+<<<<<<< HEAD
 Ping us in [#tock](https://18f.slack.com/messages/tock). We'll help you out.
 
 ### Can I only receive comp time for billable work?
 
 No, but it's very unlikely comp time will be approved for non-billable work. If you need comp time for non-billable work, then either we need to make that work billable (check #seeds in Slack), or something within the 18F/GSA org is broken and we need to fix it. Please talk to your supervisor if you encounter these issues.
+=======
+Ping us in [#tock](https://gsa-tts.slack.com/messages/tock). We'll help you out.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### What if I'm so busy that I cannot fit everything I need to do within 40 hours per week?
 
@@ -92,11 +143,15 @@ The weekly time reporting period lasts one week, beginning on Sunday and ending 
 
 ### What is the deadline for submitting my weekly timesheet?
 
+<<<<<<< HEAD
 Each Monday by close of business (COB), local time, following the end of the weekly reporting period. For example, if the weekly periods ends on Saturday, June 26, then complete your timesheet by COB on Monday, June 28. If Monday is a holiday, then you'll be expected to complete your timecard by the first workday following.
 
 ### How do I record time for federal holidays, sick leave, and annual leave?
 
 You would record these hours as Out of Office.
+=======
+Each Friday by close of business (COB), local time, at the end of the weekly reporting period. For example, if the weekly periods ends on Saturday, June 26, then complete your timesheet by COB on Friday, June 25. If Friday is a holiday, then you'll be expected to complete your timecard by the first workday following.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### How granular should my time reporting be?
 
@@ -104,7 +159,11 @@ As granular as you want! Tock accepts decimal points on hours.
 
 ### How should I bill travel?
 
+<<<<<<< HEAD
 The time you spend figuring out travel plans is billable to the project itself. Travel should be billed to General unless you're working while en route (for example, while on an airplane), in which case you should bill to whatever project you're working on.
+=======
+The time you spend figuring out travel plans is billable to the project you are traveling for. Travel time for projects that is approved by the partner agency should be billed to the client.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### How should I bill email?
 
@@ -129,7 +188,11 @@ Use the GSA System ALOHA and select your supervisor from the drop-down menu. You
 
 ### Should I record time spent on projects that I’m not officially assigned to?
 
+<<<<<<< HEAD
 Yes! We don't promise our partners specific people. That enables anyone to scrub in quickly for any project at any time so we can stay flexible. That said, please check in with that project's lead before you do anything substantial, because the lead is responsible for managing the project's budget.
+=======
+Yes! We don't promise our partners specific people. That enables anyone to scrub in quickly for any project at any time so we can stay flexible. That said, please check in with that project's engagement manager before you do anything substantial, because they are responsible for managing the project's budget.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### Tell me more about why we have to bill our time
 
@@ -143,4 +206,8 @@ Yes! We don't promise our partners specific people. That enables anyone to scrub
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#tock](https://18f.slack.com/messages/tock)
+=======
+Ask in Slack: [#tock](https://gsa-tts.slack.com/messages/tock)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

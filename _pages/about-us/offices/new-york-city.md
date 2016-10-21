@@ -22,8 +22,13 @@ title: New York City
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>
         <td class="col-value">
+<<<<<<< HEAD
         <a href="https://18f.slack.com/messages/@vv">Victor Valdivizeo</a><br />
         <a href="https://18f.slack.com/messages/@jeremiak">Jeremia Kimelman</a>
+=======
+        <a href="https://gsa-tts.slack.com/messages/@vv">Victor Valdivizeo</a><br />
+        <a href="https://gsa-tts.slack.com/messages/@jeremiak">Jeremia Kimelman</a>
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
         </td>
       </tr>
       <tr>
@@ -31,7 +36,11 @@ title: New York City
           <strong>Slack&nbsp;channel</strong>
         </td>
         <td class="col-value">
+<<<<<<< HEAD
           <a href="https://18f.slack.com/messages/nyc/">#nyc</a>
+=======
+          <a href="https://gsa-tts.slack.com/messages/nyc/">#nyc</a>
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
         </td>
       </tr>
       <tr>
@@ -138,7 +147,11 @@ You can get coffee, espresso, cappuccinos, tea, and water in the kitchen free of
 
 ### <a id="spare-keyboards-mice"></a>Spare keyboards and mice
 
+<<<<<<< HEAD
 If you need office supplies, ask in [#teamops](https://18f.slack.com/messages/teamops/). They will likely send you to [https://cap.18f.gov](https://cap.18f.gov/) to order the supplies.
+=======
+If you need office supplies, ask in [#teamops](https://gsa-tts.slack.com/messages/teamops/). They will likely send you to [https://cap.18f.gov](https://cap.18f.gov/) to order the supplies.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 If you need a cord to connect to one of the monitors in the space (or to a conference room set up) ask at the front desk. They also have chargers!
 

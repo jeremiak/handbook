@@ -42,4 +42,8 @@ If the decision is not to renew, the Talent Team will process an RPA to end your
 
 ### Still have questions?
 
+<<<<<<< HEAD
 Please contact [Cristina Brydges](https://18f.slack.com/team/cristina) regarding the policy and [Shawnique Muller](https://18f.slack.com/team/shawnique) regarding processing.
+=======
+Please contact [Cristina Brydges](https://gsa-tts.slack.com/team/cristina) regarding the policy and [Shawnique Muller](https://gsa-tts.slack.com/team/shawnique) regarding processing.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

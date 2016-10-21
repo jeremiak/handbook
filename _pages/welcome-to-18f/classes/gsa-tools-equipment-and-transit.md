@@ -6,7 +6,11 @@ _This post provides information on how to work with GSA&rsquo;s web tools and yo
 
 ## Communication
 
+<<<<<<< HEAD
 If you have any questions, please ping [#teamops](https://18f.slack.com/archives/teamops) or [#it-issues](https://18f.slack.com/archives/it-issues).
+=======
+If you have any questions, please ping [#teamops](https://gsa-tts.slack.com/archives/teamops) or [#it-issues](https://gsa-tts.slack.com/archives/it-issues).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## <a id="gsa-tools">GSA tools</a>
 
@@ -82,7 +86,11 @@ We also ask that you update your Slack profile so that your name reads _FirstNam
 
 Please do not use ALOHA to document jury duty. If you&rsquo;ve been summoned for jury duty, [email (don't Slack) Leah Gitter](mailto:leah.gitter@gsa.gov) and add an event to the &ldquo;18F Out of Office&rdquo; calendar.
 
+<<<<<<< HEAD
 Some remote employees have had difficulty accessing ALOHA. If you&rsquo;re one of them, please [ping Leah Gitter on Slack](https://18f.slack.com/messages/leahgitter/) with the dates you took (or need to take) leave and the type of leave you took. Leah will make sure to get your request logged.
+=======
+Some remote employees have had difficulty accessing ALOHA. If you&rsquo;re one of them, please [ping Leah Gitter on Slack](https://gsa-tts.slack.com/messages/leahgitter/) with the dates you took (or need to take) leave and the type of leave you took. Leah will make sure to get your request logged.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 You can see your remaining leave balances by clicking Create My Leave Request. You do not have to submit a request in order to view your available leave time. You can also see your leave balance on your paystub in [Employee Express](#employee-express).
 
@@ -122,7 +130,11 @@ Your account may not be set up by the time you start working at 18F. Account set
 
 ## <a id="concur">Concur</a>
 
+<<<<<<< HEAD
 Concur is what you will use to book travel. Learn more in [Travel 101](/travel-101). If you have questions in the meantime, head over to [#travel](https://18f.slack.com/messages/travel/).
+=======
+Concur is what you will use to book travel. Learn more in [Travel 101](/travel-101). If you have questions in the meantime, head over to [#travel](https://gsa-tts.slack.com/messages/travel/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 
 ## <a id="employee-express">Employee Express</a>
@@ -136,7 +148,11 @@ If you&rsquo;re new to GSA, it&rsquo;ll take a few weeks for IT to set up your a
 3. After you activate your account, you can set up your login ID and password.
 4. Then, go back to the welcome email and click the second link to log in.
 
+<<<<<<< HEAD
 Once your account is setup, be sure to log in right away as that initial access expires within a few days. If you have trouble logging in, call the Employee Express help desk at 1-888-353-9450 or email [eexhelp@opm.gov](mailto:eexhelp@opm.gov). They&rsquo;ll ask you for your name, date of birth, agency (OCSIT/18F), work email address, and request type (for example, `my SSN is not recognized` or `I need my login and password reset`).
+=======
+Once your account is setup, be sure to log in right away as that initial access expires within a few days. If you have trouble logging in or need to contact the Employee Express Help Desk, send an email to [eexhelp@opm.gov](mailto:eexhelp@opm.gov) from your GSA email address. In the email, include your name, work phone number and a description of your request (for example, `my SSN is not recognized` or `I need my login and password reset`).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 If they ask for your health insurance code, you can see that in CHRIS under `GSA Personnel → Self Service → Employee Views → Benefits → Health Plan`. Your code is the number next to your health plan.
 
@@ -190,9 +206,15 @@ You can log time spent in OLU as `Training / Professional Development` in [Tock]
 
 ## Office supplies
 
+<<<<<<< HEAD
 18F also has an inventory of computer supplies on hand. Contact [Matt Spencer](https://18f.slack.com/messages/@mattspencer/) to see if we have anything on hand before putting in a purchase request. If you are remote, we’ll mail your mouse or computer to you.
 
 Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building). If you need office supplies that aren't available in the printer rooms or the supply center, you'll need to complete a [purchase request form](https://docs.google.com/a/gsa.gov/forms/d/1zSuFinxBVr0oi2aGFaHArRJ8McyfQhjC05SOGuCzo/viewform). [Kathryn Connolly](https://18f.slack.com/messages/@kathryn/) can tell you more about the form.
+=======
+18F also has an inventory of computer supplies on hand. Contact [Matt Spencer](https://gsa-tts.slack.com/messages/@mattspencer/) to see if we have anything on hand before putting in a purchase request. If you are remote, we’ll mail your mouse or computer to you.
+
+Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building). If you need office supplies that aren't available in the printer rooms or the supply center, you'll need to complete a [purchase request form](https://docs.google.com/a/gsa.gov/forms/d/1zSuFinxBVr0oi2aGFaHArRJ8McyfQhjC05SOGuCzo/viewform). [Kathryn Connolly](https://gsa-tts.slack.com/messages/@kathryn/) can tell you more about the form.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 For software requests, see our [equipment guide](/equipment/#requests).
 
@@ -209,6 +231,10 @@ For software requests, see our [equipment guide](/equipment/#requests).
 
 ## Transit benefits
 
+<<<<<<< HEAD
 All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you&rsquo;ll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor&rsquo;s signature. Use `OCSIT (X)` or `XF` as your organizational code. Instructions differ slightly for each office location; see our [office tour guides](/offices) for more information.
+=======
+All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you&rsquo;ll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor&rsquo;s signature. Use `TTS (T)` or `18F (TE)` as your organizational code. Instructions differ slightly for each office location; see our [office tour guides](/offices) for more information.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 GSA's new Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).   

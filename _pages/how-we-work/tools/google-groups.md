@@ -30,4 +30,8 @@ You can subscribe to Google Groups with the following RSS feed URL: `https://gro
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#questions](https://18f.slack.com/messages/questions), [#teamops](https://18f.slack.com/messages/teamops), or [#it-issues](https://18f.slack.com/messages/it-issues)
+=======
+Ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops), or [#it-issues](https://gsa-tts.slack.com/messages/it-issues)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

@@ -7,7 +7,10 @@ Links to websites we use regularly.
 ## 18F
 
 * [18F Handbook](/)
+<<<<<<< HEAD
 * [18F Hub](https://hub.18f.gov/)
+=======
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 * [18F Brand Toolkit](https://pages.18f.gov/brand/)
 * [18F Press Resources](https://18f.gsa.gov/press/)
 * [18F Site](https://18f.gsa.gov/)
@@ -37,7 +40,11 @@ Links to websites we use regularly.
 * [Gmail](https://email.gsa.gov/)
 * [Google Calendar](https://calendar.gsa.gov/)
 * [Google Drive team folder](https://drive.google.com/drive/u/0/folders/0B84F26FpUP0lR1B2VVNGSi1MMVk)
+<<<<<<< HEAD
 * [Slack](https://18f.slack.com)
+=======
+* [Slack](https://gsa-tts.slack.com)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 * [Tock](https://tock.18f.gov/): track your time
 * [Twitter](https://twitter.com/18F/lists/team): follow your colleagues
 

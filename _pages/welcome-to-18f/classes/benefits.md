@@ -6,7 +6,11 @@ GSA requires that you enroll in many of the benefits offered to you within the f
 
 ### Leadership
 
+<<<<<<< HEAD
 [Cristina Brydges](https://18f.slack.com/team/cristina) is the Deputy Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
+=======
+[Cristina Brydges](https://gsa-tts.slack.com/team/cristina) is the Deputy Director of the Talent Team. One of her duties is working with GSA&rsquo;s HR groups.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Generally speaking, neither Cristina nor 18F can &ldquo;advise&rdquo; you on benefits &mdash; everything 18F offers is actually owned and run by GSA&rsquo;s HR and Benefits groups. She can, however, help you escalate questions and problems and point you in the right direction.
 
@@ -18,8 +22,13 @@ Please direct your questions and send all of your [benefits forms](https://githu
 
 Find us in Slack:
 
+<<<<<<< HEAD
 - [#benefits](https://18f.slack.com/messages/benefits)
 - [#talent](https://18f.slack.com/messages/talent)
+=======
+- [#benefits](https://gsa-tts.slack.com/messages/benefits)
+- [#talent](https://gsa-tts.slack.com/messages/talent)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Credit union
 
@@ -72,7 +81,11 @@ New employees, employees who move outside of the area covered by their plan, and
 
 To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your enrollment, cancel your enrollment, or suspend your enrollment, fill out [Standard Form (SF) 2809](https://www.opm.gov/forms/pdf_fill/sf2809.pdf) and submit it to [Marty Sanchez-Lowery](mailto:martha.sanchez-lowery@gsa.gov). You can also reach out to her if you have any questions.
 
+<<<<<<< HEAD
 The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Ask in [#benefits](https://18f.slack.com/messages/benefits).
+=======
+The earliest date your insurance can be effective is two weeks after your start date, assuming you send your documents in immediately. You get access to [Employee Express](https://www.employeeexpress.gov), where you can check the status of your health insurance, after your first paycheck. You can also call your providers directly to confirm enrollment. Questions? Ask in [#benefits](https://gsa-tts.slack.com/messages/benefits).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 
 ### Dental
@@ -162,6 +175,14 @@ To see your recent pay stubs:
 2. Click the "View Your Earnings and Leave Statement" link in the middle of the page.
 3. Choose the appropriate pay period in the drop-down menu.
 
+<<<<<<< HEAD
+=======
+For help interpreting the many boxes on your paystub, see [How to Read Your Leave and Earnings Statement](http://www.usbr.gov/gp/employment/neo/tab6/ELS2012.pdf).
+
+Note that the gross income in your paycheck is a little less than your annual income / 26 paychecks. The difference lies in the way the federal government calculates hourly rates from annual salary. The federal government divides the annual salary by 2087 hours rather than 2080 hours (26 pay periods x 80 hours) to determine hourly rates.
+
+This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an [article](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/) which further explains this.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Retirement
 

@@ -6,7 +6,11 @@ Google Hangouts is an online video conferencing platform that allows us to add p
 
 ## Rules
 
+<<<<<<< HEAD
 **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+=======
+**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://gsa-tts.slack.com/messages/noah/) or [Hillary Hartley](https://gsa-tts.slack.com/messages/hillary/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Setup
 
@@ -51,4 +55,8 @@ You can host a Google Hangout with anyone outside of GSA. Set up the Hangout as 
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#questions](https://18f.slack.com/messages/questions), [#teamops](https://18f.slack.com/messages/teamops), [#it-issues](https://18f.slack.com/messages/it-issues)
+=======
+Ask in Slack: [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops), [#it-issues](https://gsa-tts.slack.com/messages/it-issues)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

@@ -4,7 +4,11 @@ title: Float
 
 ## About Float
 
+<<<<<<< HEAD
 [Float](https://18f.float.com) is a team scheduling tool that helps us keep track of everyone's availability and improve visibility into who's working on what — no small feat for a team of our size. Float also allows product managers to work with the Finance team to align project planning with available budget.  Right now, almost all teams are represented in Float (with the exception of Talent, Front Office, and Operations team). The Operations team serves as the administrator of Float. If you have questions or comments about using Float, you can post them in [#admins-float](https://18f.slack.com/messages/admins-float/).
+=======
+[Float](https://18f.float.com) is a team scheduling tool that helps us keep track of everyone's availability and improve visibility into who's working on what — no small feat for a team of our size. Float also allows product managers to work with the Finance team to align project planning with available budget.  Right now, almost all teams are represented in Float (with the exception of Talent, Front Office, and Operations team). The Operations team serves as the administrator of Float. If you have questions or comments about using Float, you can post them in [#admins-float](https://gsa-tts.slack.com/messages/admins-float/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 As an 18F team member, you have access to a comprehensive breakdown of our projects. As we take on new projects, engagement / project managers / product leads  use Float to record the decisions made during the [staffing and resource planning process](https://github.com/18F/staffing-and-resources), help us track availability, improve our processes, and make us more effective.
 
@@ -24,7 +28,11 @@ The Operations team provides a weekly [Float vs. Tock report](https://docs.googl
 
 ## Setup and getting started
 
+<<<<<<< HEAD
 If you’ve never used Float, you’ll be glad to hear that it’s quite easy to set up. You can request your account  [#admins-float](https://18f.slack.com/messages/admins-float/). Once an administrator creates an account for you, you’ll get an invitation email. If you haven’t received this email and are sure your account has been created, please check your spam folder — the invite might mistakenly have been sent there. 
+=======
+If you’ve never used Float, you’ll be glad to hear that it’s quite easy to set up. You can request your account  [#admins-float](https://gsa-tts.slack.com/messages/admins-float/). Once an administrator creates an account for you, you’ll get an invitation email. If you haven’t received this email and are sure your account has been created, please check your spam folder — the invite might mistakenly have been sent there. 
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 <figure class="expandable">
   <img src="{{ site.baseurl }}/images/float/invite.png" alt="Float invite email">  
@@ -32,7 +40,11 @@ If you’ve never used Float, you’ll be glad to hear that it’s quite easy to
 
 When you first sign in, you'll be prompted to set a password. 
 
+<<<<<<< HEAD
 If you’re currently an observer and need to become an administrator, please request an account upgrade in [#admins-float](https://18f.slack.com/messages/admins-float/). 
+=======
+If you’re currently an observer and need to become an administrator, please request an account upgrade in [#admins-float](https://gsa-tts.slack.com/messages/admins-float/). 
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## See how project time is allotted
 
@@ -149,14 +161,22 @@ Once you add a person, you can add them to projects.
 
 ### Add a project (Ops team only)
 
+<<<<<<< HEAD
 Currently, Ops adds projects to Float **only** after the IAA/MOU process is started, or when a staffing decision is made in the [staffing and resource planning process](https://github.com/18F/staffing-and-resources). If you’d like to request that a project be added to Float, please do so in [#admins-float](https://18f.slack.com/messages/admins-float/). If a member of  Ops isn’t able to add your project, they’ll let you know. 
+=======
+Currently, Ops adds projects to Float **only** after the IAA/MOU process is started, or when a staffing decision is made in the [staffing and resource planning process](https://github.com/18F/staffing-and-resources). If you’d like to request that a project be added to Float, please do so in [#admins-float](https://gsa-tts.slack.com/messages/admins-float/). If a member of  Ops isn’t able to add your project, they’ll let you know. 
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 The Float project name and other information should be consistent with Tock. Although technically possible, other non-Team Ops Float Admins should not create new projects in Float. 
 
 To add a project to Float, click the plus sign in the upper-right-hand corner of the page and choose "Add Project." A dialog box will pop up and ask for the following:
 
 - Project: Please double-check that the name you enter here is consistent with the [Tock project name](https://tock.18f.gov/projects/). 
+<<<<<<< HEAD
 - Client (Agency): While most clients are already in Float, you also have the option to enter a new client. If you have questions about whether your client is already entered in Float, please check in with the folks in  [#admins-float](https://18f.slack.com/messages/admins-float/).
+=======
+- Client (Agency): While most clients are already in Float, you also have the option to enter a new client. If you have questions about whether your client is already entered in Float, please check in with the folks in  [#admins-float](https://gsa-tts.slack.com/messages/admins-float/).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 - Color: The default color should be blue.
 - Notes: Support notes that help define the project. These notes needn’t be lengthy — a sentence or two is just fine.
 - Tags: The first tag is reserved for the project’s [Tock ID](https://tock.18f.gov/projects/). If you’re entering a project before its Tock ID is assigned, enter **Tock ID TBD** for the first tag and revise it later when the Tock ID is available. You can also add other tags to help team members find the project more easily, but you’re not required to add more tags. 
@@ -209,4 +229,8 @@ Float allows you to set up automatic notifications, which are great for keeping 
 
 #### Still have questions?
 
+<<<<<<< HEAD
 Ask in Slack: [#admins-float](https://18f.slack.com/messages/admins-float/), or check out the [Float Help Center](http://support.float.com/help_center).
+=======
+Ask in Slack: [#admins-float](https://gsa-tts.slack.com/messages/admins-float/), or check out the [Float Help Center](http://support.float.com/help_center).
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130

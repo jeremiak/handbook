@@ -180,7 +180,11 @@ navigation:
     children:
     - text: Custom Partner Solutions
       url: custom-partner-solutions/
+<<<<<<< HEAD
       internal: true    
+=======
+      internal: true
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
     - text: Design
       url: design/
       internal: true
@@ -227,14 +231,26 @@ navigation:
   - text: Networks
     url: networks/
     internal: true
+<<<<<<< HEAD
+=======
+  - text: One-on-ones
+    url: one-on-ones/
+    internal: true
+  - text: Sensitive information
+    url: sensitive-information/
+    internal: true
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
   - text: Tools
     url: tools/
     internal: true
     generated: true
     children:
+<<<<<<< HEAD
     - text: Acano
       url: acano/
       internal: true
+=======
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
     - text: AnyConnect
       url: anyconnect/
       internal: true
@@ -271,12 +287,24 @@ navigation:
     - text: Managed Software Center
       url: managed-software-center/
       internal: true
+<<<<<<< HEAD
     - text: Mural.ly
       url: murally/
       internal: true
     - text: MailChimp / Mandrill
       url: mailchimp-mandrill/
       internal: true
+=======
+    - text: MailChimp
+      url: mailchimp/
+      internal: true
+    - text: Mandrill
+      url: mandrill/
+      internal: true
+    - text: Mural.ly
+      url: murally/
+      internal: true
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
     - text: Slack
       url: slack/
       internal: true
@@ -307,6 +335,12 @@ navigation:
   - text: ALOHA/ETAMS reconciliation feature
     url: aloha-etams-reconciliation-feature/
     internal: true
+<<<<<<< HEAD
+=======
+  - text: Billing policy
+    url: https://docs.google.com/document/d/1Y5MP1jmCuc43pW35zXF-lvQrwDFA9YgQfviWtFcf4ao/edit
+    internal: false
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
   - text: Code of conduct
     url: code-of-conduct/
     internal: false
@@ -343,6 +377,12 @@ navigation:
   - text: Promotions
     url: promotions/
     internal: true
+<<<<<<< HEAD
+=======
+  - text: Security incidents
+    url: security-incidents/
+    internal: true
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
   - text: Term extensions
     url: term-extensions/
     internal: true

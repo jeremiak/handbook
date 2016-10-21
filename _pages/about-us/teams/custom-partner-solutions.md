@@ -12,12 +12,21 @@ Custom Partner Solutions is one of the 5 business units within 18F. Using the cr
 ## Projects
 There have been a lot of success stories for CPS, like what we did with:
 
+<<<<<<< HEAD
 - The [Department of Labor&rsquo;s Wage and Hour Division](), where we scoped a solution and collaborated on an idea in a way that empowered our partners to meet the needs of their users 
 - [NASA and the National Oceanic and Atmospheric Administration&rsquo;s Climate Discovery project](), where we did user research and discovery sprints to promote a new digital model that houses information 
 - The [U.S. Citizenship and Immigration Service]() and their immigration and visa processes, where we improved upon a slow and challenging process for users by reimagining and modernizing a seemingly daunting task 
 - The Department of Education&rsquo;s [College Scorecard](), where we built a new site and API to showcase and synthesize data from multiple sources 
 - The [Federal Election Commission]() where we helped make data more accessible with user-friendly site and developer tools
 - [Communicart]() and [CALC](), where we built web-based tools to streamline internal agency processes  
+=======
+- The [Department of Labor&rsquo;s Wage and Hour Division](https://18f.gsa.gov/2015/09/09/how-a-two-day-sprint-moved-an-agency-twenty-years-forward/), where we scoped a solution and collaborated on an idea in a way that empowered our partners to meet the needs of their users 
+- [NASA and the National Oceanic and Atmospheric Administration&rsquo;s Climate Discovery project](https://climate-data-user-study.18f.gov/), where we did user research and discovery sprints to promote a new digital model that houses information 
+- The [U.S. Citizenship and Immigration Service](https://my.uscis.gov/) and their immigration and visa processes, where we improved upon a slow and challenging process for users by reimagining and modernizing a seemingly daunting task 
+- The Department of Education&rsquo;s [College Scorecard](https://collegescorecard.ed.gov/), where we built a new site and API to showcase and synthesize data from multiple sources 
+- The [Federal Election Commission](https://beta.fec.gov/) where we helped make data more accessible with user-friendly site and developer tools
+- [Communicart](https://cap.18f.gov/) and [CALC](https://calc.gsa.gov/), where we built web-based tools to streamline internal agency processes  
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Team Structure 
 
@@ -87,13 +96,21 @@ If you&rsquo;re on the **agency partnerships team** expect to:
 
 If you&rsquo;re just curious about all things CPS
 
+<<<<<<< HEAD
 - Come to the[#partner-solutions](https://18f.slack.com/messages/partner-solutions/files/F1VNDBY7N/) channel
+=======
+- Come to the[#partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions/files/F1VNDBY7N/) channel
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 - Attend a quarterly staff-wide [CPS AMA](https://docs.google.com/document/d/1eyPHTAzk7xWRIQAIfJl4F58NVpWpBIHiEcam7w9Ueo0/edit)
 
 ## Where you can reach us
 
 - Team email - [18F-PartnerSolutions@gsa.gov](mailto:18F-PartnerSolutions@gsa.gov)
+<<<<<<< HEAD
 - Slack - [#partner-solutions](https://18f.slack.com/messages/partner-solutions/files/F1VNDBY7N/) or ping @cps in any channel
+=======
+- Slack - [#partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions/files/F1VNDBY7N/) or ping @cps in any channel
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Documentation
 
