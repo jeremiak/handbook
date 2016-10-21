@@ -14,7 +14,11 @@ This post provides information about mandatory and professional development trai
 
 Find us in Slack:
 
+<<<<<<< HEAD
 - [#conferences](https://18f.slack.com/messages/conferences)
+=======
+- [#conferences](https://gsa-tts.slack.com/messages/conferences)
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ---
 
@@ -22,7 +26,7 @@ There are many training and professional development opportunities available to 
 
 ## Mandatory training
 
-All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov/login.asp). Please note: You may not have access to this for your first four to six weeks at 18F, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include: 
+All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov/login.asp). Please note: You may not have access to this for your first four to six weeks at 18F, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include:
 
 <table>
   <thead>
@@ -105,7 +109,11 @@ The review and approval processes can take a bit of time, so it’s best if you 
 
 After you’ve made your request, you’ll need to create an [IDP](https://gsa--c.na21.visual.force.com/apex/IDP_HomePage?sfdc.tabName=01rt0000000L2d8) related to the training or conference that you want to attend. The IDP helps you articulate how a given training contributes to your longer-term professional goals. Create it in Salesforce. See the [GSA Guide to IDPs](https://insite.gsa.gov/portal/mediaId/615682/fileName/EmployeesGuide2IndivDevePlan_1113.action) for policy information.
 
+<<<<<<< HEAD
 To get some IDP inspiration, you can browse some examples from your 18F colleagues, including the approved IDPs of [Leah Bannon](https://drive.google.com/a/gsa.gov/file/d/1Sid8vVFgR69gYOin5FUxbVbuC6XGEu-zIii9dO7xBN4VrWumKvl02Zs0NFKxg_bUGikkSiakn0HBFdlP/view) and [Emileigh Barnes](https://docs.google.com/document/d/1IDVXKHnj9lVWiloBShZ9tuU3Wwe7ErTUL0hVDncKau4/edit) for General Assembly classes. Gray's [TL;DR on IDPs](https://18f.slack.com/archives/distributed/p1447194666000190) is well worth a look.
+=======
+To get some IDP inspiration, you can browse some examples from your 18F colleagues, including the approved IDPs of [Leah Bannon](https://drive.google.com/a/gsa.gov/file/d/1Sid8vVFgR69gYOin5FUxbVbuC6XGEu-zIii9dO7xBN4VrWumKvl02Zs0NFKxg_bUGikkSiakn0HBFdlP/view) and [Emileigh Barnes](https://docs.google.com/document/d/1IDVXKHnj9lVWiloBShZ9tuU3Wwe7ErTUL0hVDncKau4/edit) for General Assembly classes. Gray's [TL;DR on IDPs](https://gsa-tts.slack.com/archives/distributed/p1447194666000190) is well worth a look.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Here are a few hints for creating a top-notch IDP:
 
@@ -116,7 +124,11 @@ Here are a few hints for creating a top-notch IDP:
 
 Once you’ve completed your IDP, submit to your supervisor for review.
 
+<<<<<<< HEAD
 If you need to edit your IDP, check out [our guide to updating IDPs](https://docs.google.com/presentation/d/1o-JMtcXWqnWwRNPB_m8TOc4aYYKRyjR8vdcrS6Wkpt4/edit?pli=1#slide=id.p7). You'll need to clone it, revise it, and place it in “resubmit status.”
+=======
+If you need to edit your IDP, you'll want to make sure to clone it, revise it, and place it in “resubmit status.”
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### 3. Meet with your supervisor
 
@@ -126,6 +138,47 @@ Once you’ve submitted your IDP,  you’ll meet with your supervisor to discuss
 
 That said, 18F will consider all requests for training, but it’s the responsibility of heads of chapters and business units to plan spending accordingly. If a particular business unit or chapter exhausts its budget before the end of the fiscal year, the director of operations may have to deny certain training requests.
 
+<<<<<<< HEAD
+### 4. Submit your request in C2
+
+Once your IDP is approved, you can [create an event request in C2](https://cap.18f.gov/gsa18f/events/new). Make sure you fill out all required fields and attach your IDP before submitting-- you can do this by going in to **Review** your IDP and then clicking **Print** at the bottom of the page, which will open your IDP in Print Preview and allow you to export a PDF version of it.
+
+**For a group training/conference**, it is recommended that one C2 request be made for everyone attending. The initial requestor can name who all will be attending in the "Instructions to Purchase" field and, after submitting, add the additional people as *observers* to the request. Each person will be able to upload any required documents (IDP, SF-182, etc.) accordingly.
+
+**What happens next?**
+
+[Pia Scott]((mailto: pia.scott@gsa.gov)) will review your request for red flags during her 18F office hours: either 3:30 PM - 5:00 PM Eastern on Wednesday or 9 AM - 11 AM Eastern on Friday. You can review the 18F Training and Development schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c%40group.calendar.google.com&ctz=America/Chicago) or add it to your Google calendar by copying this link in *Add a coworker's calendar*: `gsa.gov_06eg4pgbm7dpkgn1caqia2rf6c@group.calendar.google.com`
+
+### 5. Resolve any red flags and finalize all approvals
+
+Before your request can be approved, it needs to be free of red flags. During her office hours, Pia will review your request and identify red flags in the comments section of your C2 request.
+
+Some of the most common red flags include:
+
+* [Any training or conference requiring payment](#does-the-training-or-conference-require-payment?)
+* [Training or conference purchase is over $3,000](#Does-the-training-or-conference-cost-over-$3,000?)
+* [Conferences or trainings at conferences](#Are-you-attending-a-conference-or-training-at-a-conference?)
+* [Training or conferences involving travel](#does-the-training-or-conference-require-travel?)
+* [Any international travel](#Does-your-request-require-international-travel?)
+* [Vendor-sponsored event participation (vendor offers to cover any expense)](#Does-the-event-cover-registration,-lodging,-or-food-free-of-charge?)
+
+It’s fairly common for a request to have multiple red flags. Pia will recommend your request for approval and purchase during her next office hours once she verifies that all red flags have been addressed.
+
+**What happens next?**
+
+Once you have remedied all red flags and Pia has recommended approval, the 18F Director of Operations [Josh Bailes](mailto:joshua.bailes@gsa.gov) will review and approve your request during his office hours along with [Jackie Xu](mailto:huixian.xu@gsa.gov). They will verify that your request is within budget and recommended for approval by Pia before approving as well.
+
+**Purchase, travel approval, and logistics**
+
+Once Josh and Jackie have approved, your request will move on to [18F Purchasers](18f-purchasers@gsa.gov). Then, one (or two) of three things will happen:
+
+* If your request didn't require anything to be purchased and there were no travel expenses, it will be marked as "purchased" and resolved with no further action required on your part.
+* If your request requires that something be purchased, [read on here](#does-the-training-or-conference-require-payment?) for more.
+* If your request requires travel, [read on here](#does-the-training-or-conference-require-travel?) for more.
+
+#### Does the training or conference require payment?
+
+=======
 ### 4. Enter your request in the speaking request tracker
 
 Once your IDP is approved, enter your speaking or training request in [our team spreadsheet](https://docs.google.com/spreadsheets/d/1Y0336rKQ4FiTFhoQynRjoVuJFzXEgaV0QcHqaNd-Eis/edit#gid=751771132). Please complete the entire form, except for columns B (supervisor approval), D (presence of red flags), Q (notes), R (identification of red flags), and S (steps to approval).
@@ -167,6 +220,7 @@ In general, if training or conference purchase request is less than $1,000, it c
 
 #### Does the training or conference cost over $1,000?
 
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 You'll need to complete an SF-182. The SF-182, in addition to being the document that authorizes 18F to pay for the training, is also a contract between you and the government. If you leave before terms of this “continuing service agreement” are met, then you are required to pay the government for the cost of the training.
 
 To get this started, you'll need to create [an SF-182 request](https://gsa--c.na21.visual.force.com/apex/IDP_SF182Edit) in Salesforce. Link it to your IDP and also provide your position level.
@@ -187,11 +241,41 @@ Then, you can go ahead and [Add new training request to existing SF-182](https:/
 * Per diem (Indirect Cost)
 * Supervisor
 * Approver 1 (your supervisor's name again)
+<<<<<<< HEAD
+* Approver 2 is Dave Zvenyach, but only for trainings costing over $3,000.
+=======
 * Approver 2 is Aaron Snow, but only for trainings costing over $3,000.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 * Purchase card holder is Ethan Heppner
 
 Save your SF-182 request when finished. You will be notified automatically when it is approved.
 
+<<<<<<< HEAD
+#### Does the training or conference cost over $3,000?
+
+There are a few special rules for trainings of conferences that cost over $3,000:
+
+**If an individual training or conference costs over $3,000**, the 18F executive director (Dave Zvenyach) must be listed as a second line approver on the SF-182.
+
+**If an individual *or* group training or conference costs over $3,000**, you must also get an invoice from the vendor and attach it to the request in C2, as this exceeds the maximum that 18F can pay via credit card. Pia will also add [Ethan Heppner](mailto:ethan.heppner@gsa.gov) as an observer to your request. Ethan will verify if the training/conference vendor has a valid and active DUNS, which is also required when the federal government makes a purchase over $3,000 from any vendor.
+
+#### Are you attending a conference or training at a conference?
+
+Conferences, training at conferences, and training involving travel require Salesforce approval. [Pia](mailto: pia.scott@gsa.gov) will create this Salesforce Event Approval request, so no action is required on your part. You will receive two notifications via comment in C2: submission and approval. Further instructions will be provided, based upon the training request type.
+
+#### Does the training or conference require travel?
+
+For requests involving travel, you must complete and attach a PDF copy of your budget to your C2 request using the template provided [here](https://docs.google.com/spreadsheets/d/1uJaGMXJOwURruaPdV7PU5B7Q22_iyF8Q2Gk2uamDG8Y/edit#gid=0).
+
+Once your request has been recommended for approval by Pia, approved in C2 by the 18F Director of Operations, and marked as purchased, you may begin booking travel in [Concur](travel.gsa.gov). Please attach a PDF version of your approved C2 request (which can be done by opening it as a print preview and exporting to PDF) as you would attach a receipt in Concur, and feel free to reach out in [#travel](https://gsa-tts.slack.com/messages/travel/) or to [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov) for guidance. Don't forget to [stamp and submit](https://handbook.18f.gov/travel-guide-3-approval/#iv-submit-authorization-for-approval) your authorization so it gets reviewed and approved by the 18F travel team!
+
+If this is your first time on government travel, you have some preliminary work to do. To complete the necessary steps before travel, follow the steps to [get set up in Concur](https://handbook.18f.gov/first-time-travel-get-in-concur-post-olu/).
+You will also need to [apply for a travel card](https://handbook.18f.gov/first-time-travel-travel-card/). It is the required payment method for your government travel expenses, such as lodging, transportation, meals, etc.
+
+#### Does your request require international travel?
+
+International travel requires additional approvals. As mentioned above, make sure that you’ve submitted your request 6-8 weeks in advance.
+=======
 In the meantime, you can request an invoice from the training vendor, which should include all of the information necessary to process an electronic funds transfer (EFT), and complete a purchase request at <https://cap.18f.gov>. Please upload your invoice as well as your approved SF-182 to the purchase request so that the Operations team may review and approve.
 
 #### Does the event cover registration, lodging, or food free of charge?
@@ -208,11 +292,21 @@ You will also need to [apply for a travel card](https://insite.gsa.gov/portal/ca
 #### Does your request require international travel?
 
 International travel requires additional approvals. As mentioned above, make sure that you’ve submitted your request in the [OCSIT/18F Speaking Requests / Training Requests](https://docs.google.com/spreadsheets/d/1Y0336rKQ4FiTFhoQynRjoVuJFzXEgaV0QcHqaNd-Eis/edit#gid=751771132) 6-8 weeks in advance.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 Similar to requesting any sort of training involving travel, [Pia](mailto: pia.scott@gsa.gov) will review and identify any red flags and steps for remediation, and then submit a request on your behalf in Salesforce.
 
 International Salesforce Event Approval Requests require extensive review prior to approval, and must be reviewed and approved by your first and second-level supervisors, the HSSO, OGC, OGE, OAS and the GSA Administrator. [Pia](mailto: pia.scott@gsa.gov) will assist you in coordinating this approval process. You must include justification for international travel in your training request. For example, can this training be obtained in the United States? If so, why do you need to travel outside of the country? This question will be asked at every level of review. Be sure to provide a comprehensive justification (such as professional development, collaboration, information gathering, recruitment, etc.).
 
+<<<<<<< HEAD
+Once the international travel has been recommended for approval by Pia and approved by Josh and Jackie, the procedure is the same as [above](#does-the-training-or-conference-require-travel?)
+
+#### Does the event cover registration, lodging, or food free of charge?
+
+If the event host is paying any expenses (transportation, lodging, meals, etc.), then you must complete a [Non-Federal Source Gift Form](https://drive.google.com/a/gsa.gov/file/d/0B9DenuU408s4UHVsNFlqTEFpRGc/view?usp=sharing). and attach it to your C2 request.
+
+=======
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ### 6. Attend your training
 
@@ -225,7 +319,11 @@ If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re 
 
 ## Self-directed study for engineers
 
+<<<<<<< HEAD
 Engineering Chapter members: Would you like to pursue a self-directed training option? Would you like to teach yourself a new programming language, read the latest book on software development ideology, or take an online course? You totally can! Please include the request as part of your Individual Development Plan (IDP). If there is any type of cost associated with your training, you will need a to also submit a supervisor-approved (i.e. signed) Standard Form 182. Once you’ve submitted your IDP your Supervisor will usually approve the request within 72 hours, and you will be good to go! Please coordinate with your project to carve out the time, and with your Supervisor to determine the duration, goals, and success markers of self-directed study. Please talk with your Facilitator or Supervisor with any questions, comments, or concerns.
+=======
+Engineering Chapter members: Would you like to pursue a self-directed training option? Would you like to teach yourself a new programming language, read the latest book on software development ideology, or take an online course? You totally can! Please include the request as part of your Individual Development Plan (IDP). If there is any type of cost associated with your training, you will need to also submit a supervisor-approved (i.e., signed) Standard Form 182. Once you’ve submitted your IDP your Supervisor will usually approve the request within 72 hours, and you will be good to go! Please coordinate with your project to carve out the time, and with your Supervisor to determine the duration, goals, and success markers of self-directed study. Please talk with your Facilitator or Supervisor with any questions, comments, or concerns.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
 
 ## Other training resources
 
@@ -235,7 +333,13 @@ As an 18F team member, you have access to additional online training resources.
 
 - **DigitalGov University** holds webinars and in-person events about all things digital government. See the DigitalGov [calendar of events](http://www.digitalgov.gov/events/) and [video library](http://www.digitalgov.gov/digitalgov-university/video-library/) for more information.
 
+<<<<<<< HEAD
 - 18F has a number of licenses to **User Interface Engineering (UIE)&rsquo;s video library.** To access it, add your name to [this spreadsheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1CGl5gBdFhKQ3aFdvv67KGLa21xj-WFp6whRF9XGU-B0/edit#gid=0). Then log in [here](http://aycl.uie.com/).
 
 - [Safari Books Online](https://www.safaribooksonline.com) provides online access to 30,000 books and videos about programming, UX design, leadership, project management, content strategy, agile development, and more. To request access, email [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov).
 -
+=======
+- [Safari Books Online](https://www.safaribooksonline.com) provides online access to 30,000 books and videos about programming, UX design, leadership, project management, content strategy, agile development, and more. To request access, email [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov).
+
+-  GSA offers free, individual coaching for employees. Any of us can tap them any time, at no cost. The coaches are all certified by the International Federation of Coaches. They aim to help with more or less any workplace challenges you face--managing your manager; dealing with a colleague whose communication style is very different from yours; positioning yourself for a different kind of work within the agency; balancing urgent vs important requests; etc. Some of the coaches also specialize in leadership and executive issues. For more details, please contact Nicole O'Brien in GSA Office of Human Resources Management.
+>>>>>>> 0a65016c6f9392dfb7eb1d93545668debce18130
