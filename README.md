@@ -8,6 +8,7 @@ Note: If you're changing any kind of process, please let [#wg-onboarding](https:
 
 ## What can't be included
 
+
 For 18F staff, keep in mind that the handbook website and repository are public, so we can't include information that shouldn't be public. We already get training on this, but here are a few reminders about things we shouldn't include here:
 
 * [Sensitive information, as described in our Open Source Policy practices guide](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information)
