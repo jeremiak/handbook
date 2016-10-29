@@ -1,8 +1,6 @@
 18F Handbook [![Build Status](https://travis-ci.org/18F/handbook.svg?branch=master)](https://travis-ci.org/18F/handbook)
 ========================
 
-Forcing yet another rebuild!
-
 The [18F Handbook](https://handbook.18f.gov) documents the mission, values, structures, policies, tools, and guides that shape our team. This is a _living_ document and is updated regularly. If you have questions, comments, or suggestions, please
 [open an issue](https://github.com/18F/handbook/issues). If you want to add content to the Handbook, please submit a pull request or ask in [#18f-handbook](https://gsa-tts.slack.com/messages/18f-handbook).
 
